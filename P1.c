@@ -10,7 +10,7 @@ int main()
 	char bits[256];
 	printf("Digite a sequencia desejada: ");
 	fflush(stdin);
-	scanf("%s", &bits);
+	scanf("%s", bits);
 	for(i = 0; bits[i] != '\0'; i++)
 	{
 		for(i = 0; bits[i] != '\0'; i++)
