@@ -1,6 +1,5 @@
-/* P0.c */
-/* Leonardo Assis Gaspar */
-/* 11811EAU015 */
+\\Leonardo Assis Gaspar
+\\11811EAU015
 #include <stdio.h>
 int main(int argc, char ** argv) {
 	int i;
