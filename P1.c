@@ -1,4 +1,3 @@
-//P1.c
 //Leonardo Assis Gaspar
 //11811EAU015
 
